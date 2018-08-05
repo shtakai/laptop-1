@@ -1,6 +1,6 @@
 Laptop
 ======
-[![Build Status](https://travis-ci.org/18F/laptop.svg)](https://travis-ci.org/18F/laptop)
+[![Build Status](https://travis-ci.org/18F/laptop.svg)](https://travis-ci.org/18F/laptop) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/laptop-1.svg)](https://www.guardrails.io)
 
 Laptop is a script to set up an OS X computer for web development.
 
